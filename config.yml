@@ -1,4 +1,4 @@
-title: Creating mask for CT scan images using ITK snap
+title: Deep Learning from Scratch (Segmentation Task)
 description: 'In this course we will learn how to use ITK snap to mask for CT scan images. '
 template:
   repo: creating-mask-for-ct-scan-images-using-itk-snap-template
@@ -10,14 +10,13 @@ before:
 steps:
   - title: First step
     description: The first step in your course
-    video: https://youtube.com/embed/c_hG1t9KVf4
+    video: 'https://youtube.com/embed/c_hG1t9KVf4'
     event: issues.assigned
     link: '{{ repoUrl }}'
     actions:
       - type: closeIssue
-      
-  - title: Deep Learing. 
-    description: This is a small course and it will take only 5-10 minutes to complete. 
+  - title: Deep Learing.
+    description: This is a small course and it will take only 5-10 minutes to complete.
     event: issues.assigned
     link: '{{ repoUrl }}'
     actions:
