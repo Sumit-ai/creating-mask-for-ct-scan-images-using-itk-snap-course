@@ -11,7 +11,7 @@ steps:
   - title: Create mask using ITK snap. 
     description: this is a small course and it will take only 5-10 minutes to complete. 
     event: issues.assigned
-    video: https://youtube.com/embed/c_hG1t9KVf4
+    video: https://youtube.com/embed/w3jLJU7DT5E
     link: '{{ repoUrl }}'
     actions:
       - type: closeIssue
