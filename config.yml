@@ -8,8 +8,8 @@ before:
     title: Welcome!
     body: new-issue.md
 steps:
-  - title: First step
-    description: The first step in your course
+  - title: Create mask using ITK snap. 
+    description: this is a small course and it will take only 5-10 minutes to complete. 
     event: issues.assigned
     video: https://www.youtube.com/watch?v=c_hG1t9KVf4
     link: '{{ repoUrl }}'
