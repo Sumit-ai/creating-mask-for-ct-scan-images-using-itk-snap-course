@@ -1,0 +1,16 @@
+title: Creating mask for CT scan images using ITK snap
+description: 'In this course we will learn how to use ITK snap to mask for CT scan images. '
+template:
+  repo: creating-mask-for-ct-scan-images-using-itk-snap-template
+  name: creating-mask-for-ct-scan-images-using-itk-snap
+before:
+  - type: createIssue
+    title: Welcome!
+    body: new-issue.md
+steps:
+  - title: First step
+    description: The first step in your course
+    event: issues.assigned
+    link: '{{ repoUrl }}'
+    actions:
+      - type: closeIssue
