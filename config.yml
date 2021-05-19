@@ -14,3 +14,10 @@ steps:
     link: '{{ repoUrl }}'
     actions:
       - type: closeIssue
+      
+  - title: Deep Learing. 
+    description: This is a small course and it will take only 5-10 minutes to complete. 
+    event: issues.assigned
+    link: '{{ repoUrl }}'
+    actions:
+      - type: closeIssue
